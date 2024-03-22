@@ -10,6 +10,9 @@ I've learned JS (mostly React), Python (Pandas, NumPy, React-Py), coded on Googl
 **Short-mid term:** Right now I'm looking for challenges that help me gather experience.
 **Long term:** I'd like to get a better grasp on machinelearning and AI developement. 
 
+### Relevant Project
+I have already worked a bit on <a href="https://github.com/MMRos/ChatGPT_Python">ChatGPT</a> integration and usage through an API Key. This one requires a bit of a setup explainned on the ReadMe.  
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
