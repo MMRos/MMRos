@@ -11,7 +11,14 @@ I've learned JS (mostly React), Python (Pandas, NumPy, React-Py), coded on Googl
 **Long term:** I'd like to get a better grasp on machinelearning and AI developement. 
 
 ### Relevant Project
-I have already worked a bit on <a href="https://github.com/MMRos/ChatGPT_Python">ChatGPT</a> integration and usage through an API Key. This one requires a bit of a setup explainned on the ReadMe.  
+During my studies I created some apps/webs. There are two that I believe are the most relevant:
+* I have already worked a bit on <a href="https://github.com/MMRos/ChatGPT_Python">ChatGPT</a> integration and usage through an API Key. This one requires a bit of a setup explainned on the ReadMe.  
+* I also created with a bit of React a simple web that allowed to create a navbar which shows whatever things you are buying. This one's called <a href="https://github.com/MMRos/Carro-de-compras">Carro de la compra</a>.
+
+Also, I've been working on some other projects on my own:
+* One of them is a simple app with a bit of fantasy flavour to it that reads you some <a href="https://github.com/MMRos/runes_LN_python">Runes</a>. It allows you to choose through a small variety of readings. The app explains them to you. This one is in spanish.
+* Another one is a work in progress to create a <a href="https://github.com/MMRos/Hoja_ln">Character Sheet</a> for a ttrpg of my doing. This one's also in spanish.
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
