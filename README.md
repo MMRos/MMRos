@@ -17,7 +17,7 @@ During my studies I created some apps/webs. There are two that I believe are the
 
 Also, I've been working on some other projects on my own:
 * One of them is a simple app with a bit of fantasy flavour to it that reads you some <a href="https://github.com/MMRos/runes_LN_python">Runes</a>. It allows you to choose through a small variety of readings. The app explains them to you. 
-* Another one is a work in progress to create a <a href="https://github.com/MMRos/Hoja_ln2">Character Sheet</a> for a ttrpg of my doing. This one's in spanish.
+* Another one is a work in progress to create a <a href="https://github.com/MMRos/hoja_ln2">Character Sheet</a> for a ttrpg of my doing. This one's in spanish.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
